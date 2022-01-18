@@ -6,6 +6,14 @@
 A bot created for Telegram to track the current market statistics of ElonGoat Token
 Done as a fun little project as I noticed people had paid for this, and wanted it to be free for all developers to change and make their own.
 
+You can join the telegram group where this bot is present and have a go at it yourself:
+https://t.me/testbotgroupelongoat
+
+Commands are:
+`/price /mcap /marketcap /stats` - Sends the market statistics of the token.
+`/chart` - Sends the possible Charts.
+`/contract` - Sends the contract of the token.
+
 <hr>
 
 Some Screenshots of what it looks like
