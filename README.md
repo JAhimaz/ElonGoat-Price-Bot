@@ -10,8 +10,11 @@ You can join the telegram group where this bot is present and have a go at it yo
 https://t.me/testbotgroupelongoat
 
 Commands are:
+
 `/price /mcap /marketcap /stats` - Sends the market statistics of the token.
+
 `/chart` - Sends the possible Charts.
+
 `/contract` - Sends the contract of the token.
 
 <hr>
