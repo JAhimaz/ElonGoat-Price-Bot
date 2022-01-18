@@ -19,8 +19,13 @@ Commands are:
 Some Screenshots of what it looks like
 
 <b>Market Statistics</b>
+
 ![Market Statistics](https://github.com/JAhimaz/ElonGoat-Price-Bot/blob/main/images/price.png)
+
 <b>Charting Sites</b>
+
 ![Charting Sites](https://github.com/JAhimaz/ElonGoat-Price-Bot/blob/main/images/chart.png)
+
 <b>Contract Address</b>
+
 ![Contract Address](https://github.com/JAhimaz/ElonGoat-Price-Bot/blob/main/images/contract.png)
